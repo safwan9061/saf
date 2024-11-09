@@ -1,0 +1,196 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+    box-sizing: border-box;
+    font-family:sans-serif ;
+}
+.a{
+    text-align: center;
+    color:white;
+    background-image: url(https://cdn.shopify.com/b/shopify-brochure2-assets/d6871d3f4578bf4ec7e7d85f961fe559.svg);
+    background-repeat:no-repeat ;
+    width:100%;
+    background-size:2000px;
+   
+
+ 
+}
+.shopi{
+    color:white;
+    margin-top: 0px;
+   
+    
+}
+.build{
+    margin-top: 40px;
+    font-size: 50px;
+   
+}
+.trusted{
+    margin-top: 40px;
+}
+.searchbar{
+    margin-top: 40px;
+    height:50px;
+    width:31%;
+    border-radius: 40px;
+    border-width: 20px;
+    border-style: hidden;
+    border-left: 100px;
+    border-color: violet;
+}
+.start{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius:50px ;
+    border-width: 14px;
+    border-color: none;
+    cursor: pointer;
+    margin-left:-121px;
+}
+
+.by{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+}  
+.one{
+    background-color:white;
+    width: 378px;
+    height: 256px;
+    margin-top: 99px;
+    margin-left: 60px;
+    line-height: 30px; 
+    
+}
+.two{
+    background-color:white;
+    margin-top: -253px;
+    margin-left: 464px;
+    width: 378px;
+    height: 256px;
+    line-height: 30px;
+    
+
+}
+.three{
+    background-color:white;
+    margin-top: -253px;
+    margin-left: 865px;
+    width: 378px;
+    height: 256px;
+    line-height: 30px;
+    
+
+}
+.product{
+    width: 45%;
+    height:70%;
+   
+}
+.b{
+    margin-top: 20px;  
+    margin-left:70px;
+    display: grid;
+ 
+   
+}
+.par{
+    margin-top: 20px; 
+   line-height: 30px; 
+   
+  
+
+}
+.par1{
+    margin-top: 20px; 
+    line-height: 30px; 
+    
+
+}
+.par2{
+    margin-top: 20px; 
+    line-height: 30px; 
+   
+  
+}
+.c{
+    text-align: center; 
+ 
+   
+}
+.d{
+    text-align: center; 
+    margin-top: 30px;
+}
+.e{
+    text-align: center; 
+    margin-top: 90px;
+    font-size: larger;
+    
+}
+.f{
+    text-align: center;  
+    margin-top: 40px;
+    font-size: larger;
+}
+.g{
+    text-align: center;  
+    margin-top: 40px;
+    height: 20px;
+    width: 500x;
+   
+}
+#btn{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-width: 20px;
+    cursor: pointer;
+}
+.h{
+    text-align: right;
+    margin-right: -140px;
+    padding-right: 0px;
+    text-decoration: underline;
+    font-weight: bold;
+    height: 124px;
+    margin-top: 290px;
+    cursor: pointer;
+    
+   
+}
+.h{
+    width:65%;
+    margin-left: 370px;
+    margin-top: 160px;
+    
+}
+.h1{
+    width:80%;
+    margin-left: 120px;
+    margin-top: -110px;
+}
+#h2{
+    width:80%;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.terms{
+    margin-right: 59px;
+    margin-bottom: 100px;
+}
+.privacy{
+    margin-right: 59px;
+}
+.site{
+    margin-right: 59px;
+}
+   
+   
